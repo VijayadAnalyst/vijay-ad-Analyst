@@ -5,14 +5,11 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 
 
 ## About Me
-🎓 Aspiring Data Analyst | SQL | Power BI | Python | Excel
-📊 Passionate about transforming raw data into actionable insights.
-✨ Currently working on: Interactive Dashboards and SQL Queries Optimization.
-📂 Check out my projects: Data Cleaning, Visualization, and EDA with live dashboards.
-💡 "Learning never stops!
-- 💼 Aspiring Data Analyst
-- 🌱 Certified as Data Analyst Certification
-- 🎓 Bachelor of Engineering 
+- 🎓 Aspiring Data Analyst | SQL | Power BI | Python | Excel
+- 📊 Passionate about transforming raw data into actionable insights.
+- ✨ Currently working on: Interactive Dashboards and SQL Queries Optimization.
+- 📂 Check out my projects: Data Cleaning, Visualization, and EDA with live dashboards.
+- 💡 "Learning never stops!
 
 ## Tools and Languages
 
