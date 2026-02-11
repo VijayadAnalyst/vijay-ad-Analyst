@@ -1,4 +1,4 @@
-# Vijay AD — Data Analyst | MIS & Business Intelligence
+# 👋 Vijay AD | Data Analyst & MIS Professional
 
 I specialize in converting complex, unstructured data into clear insights, automated reports, and decision-ready dashboards.  
 My work focuses on accuracy, efficiency, and business impact — not just visuals.
