@@ -45,8 +45,8 @@ I bring structured thinking, analytical rigor, and business understanding to eve
 
 ## 📫 Connect With Me  
 
-- 📧 Email: vijayad@example.com  
-- 📱 Phone: +91 XXXXXXXXXX  
+- 📧 Email: vijayad.analyst@example.com  
+- 📱 Phone: +91 6383408699  
 - 💼 LinkedIn: https://linkedin.com/in/vijayad  
 
 ---
