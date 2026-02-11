@@ -1,20 +1,57 @@
+# Vijay AD — Data Analyst | MIS & Business Intelligence
 
-# Hi there, I'm Vijay! 👋
+I specialize in converting complex, unstructured data into clear insights, automated reports, and decision-ready dashboards.  
+My work focuses on accuracy, efficiency, and business impact — not just visuals.
 
-Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, SQL, and Python, along with web development skills acquired through WordPress, I aim to combine technical expertise with business acumen to deliver impactful solutions.
+---
 
+## 🚀 About Me  
+- 📊 Data Analyst & MIS Executive with hands-on experience in reporting, dashboards, and analytics  
+- 🧠 Strong in data cleaning, KPI tracking, and business insights  
+- ⚙️ Passionate about building automated, scalable, and decision-driven reports  
+- 🎯 Goal: Work in a data-driven organization where analytics impacts real business outcomes
+- 
+## 🧩 Core Expertise
 
-## About Me
-- 🎓 Aspiring Data Analyst | SQL | Power BI | Python | Excel
-- 📊 Passionate about transforming raw data into actionable insights.
-- ✨ Currently working on: Interactive Dashboards and SQL Queries Optimization.
-- 📂 Check out my projects: Data Cleaning, Visualization, and EDA with live dashboards.
-- 💡 "Learning never stops!
+### 📊 Analytics & Reporting
+- Data Cleaning, Transformation & Validation  
+- KPI Design & Performance Tracking  
+- MIS Reporting (Daily / Weekly / Monthly)  
+- Business & Trend Analysis  
 
-## Tools and Languages
+### 🛠 Tools & Technologies
+- Advanced Excel & Google Sheets  
+- SQL (MySQL)  
+- Power BI, Tableau, Looker Studio  
+- Python (Pandas, NumPy, Matplotlib)  
 
-- ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-- ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### 🧠 Data Capabilities
+- Data Modeling & ETL Concepts  
+- Dashboard Architecture  
+- Data Storytelling & Visualization  
+- Process Automation & Optimization  
 
-Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
+## 📌 Professional Focus
+
+I am actively focused on roles involving:
+- Data Analyst  
+- MIS Executive  
+- Business Intelligence Analyst  
+- Reporting & Analytics  
+
+I bring structured thinking, analytical rigor, and business understanding to every dataset I work on.
+
+---
+
+## 🌐 Connect
+
+- 📧 Email: vijayad.analyst@example.com  
+-vijayad 💼 LinkedIn: https://linkedin.com/in/vijayad
+
+---
+
+## ⚡ Philosophy
+
+> "Data is only powerful when it changes decisions."
+
+If you're looking for someone who can not just analyze data, but explain it clearly and build systems around it — I’m open to collaboration and opportunities.
