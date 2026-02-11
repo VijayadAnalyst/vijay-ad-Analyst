@@ -10,7 +10,7 @@ My work focuses on accuracy, efficiency, and business impact — not just visual
 - 🧠 Strong in data cleaning, KPI tracking, and business insights  
 - ⚙️ Passionate about building automated, scalable, and decision-driven reports  
 - 🎯 Goal: Work in a data-driven organization where analytics impacts real business outcomes
-- 
+ 
 ## 🧩 Core Expertise
 
 ### 📊 Analytics & Reporting
@@ -43,10 +43,11 @@ I bring structured thinking, analytical rigor, and business understanding to eve
 
 ---
 
-## 🌐 Connect
+## 📫 Connect With Me  
 
-- 📧 Email: vijayad.analyst@example.com  
--vijayad 💼 LinkedIn: https://linkedin.com/in/vijayad
+- 📧 Email: vijayad@example.com  
+- 📱 Phone: +91 XXXXXXXXXX  
+- 💼 LinkedIn: https://linkedin.com/in/vijayad  
 
 ---
 
